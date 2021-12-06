@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 4px;
+    letter-spacing: 2px;
+    margin: auto;
+    width: fit-content;
+}
+.container-2{
+    background-color: #fff;
+    width: 80%;
+    height: auto;
+    margin-top: 1px;
+    padding: 60px;
+}
+.first-session h1{
+    font-weight: bold;
+}
+.first-session .pera-1{
+    color: #a9a9a9;
+    font-size: 30px !important;
+}
+.first-session ul{
+    list-style: none;
+}
+.first-session a{
+    color: palevioletred;
+    font-weight: bold;
+    margin-left: 0px !important;
+}
+.first-session p{
+    font-size: 20px;
+}
+span{
+    color: palevioletred;
+    font-weight: bold;
+}
+.second-session p{
+    color: #a9a9a9;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.third-session .pera-2{
+    color: #a9a9a9;
+}
